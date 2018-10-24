@@ -1,0 +1,163 @@
+{
+  "name": "cnn",
+  "description": "Deep Learning: Convolutional Neural Network",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/cnn.tp",
+  "details": {
+    "counts": {
+      "termCount": 0,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 5,
+      "glossaryCount": 0
+    },
+    "drawings": [
+      {
+        "figure": "Fig. 1",
+        "briefDescription": "<p><b>Fig. 1</b> illustrates a convolutional neural network 100 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "convolutional neural network",
+            "number": 100
+          },
+          {
+            "part": "input layer",
+            "number": 102
+          },
+          {
+            "part": "convolutional layer",
+            "number": 104
+          },
+          {
+            "part": "output layer",
+            "number": 106
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 2",
+        "briefDescription": "<p><b>Fig. 2</b> illustrates a convolutional neural network layers 200 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "convolutional neural network layers",
+            "number": 200
+          },
+          {
+            "part": "input layer region",
+            "number": 202
+          },
+          {
+            "part": "subregion of the input layer region",
+            "number": 204
+          },
+          {
+            "part": "convolutional layer",
+            "number": 206
+          },
+          {
+            "part": "convolutional layer subregion",
+            "number": 208
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 3",
+        "briefDescription": "<p><b>Fig. 3</b> illustrates a VGG net 300 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "VGG net",
+            "number": 300
+          },
+          {
+            "part": "convolution layer",
+            "number": 302
+          },
+          {
+            "part": "RELU layer",
+            "number": 304
+          },
+          {
+            "part": "convolution layer",
+            "number": 306
+          },
+          {
+            "part": "RELUlayer",
+            "number": 308
+          },
+          {
+            "part": "pooling layer",
+            "number": 310
+          },
+          {
+            "part": "convolution layer",
+            "number": 312
+          },
+          {
+            "part": "RELUlayer",
+            "number": 314
+          },
+          {
+            "part": "convolution layer",
+            "number": 316
+          },
+          {
+            "part": "RELUlayer",
+            "number": 318
+          },
+          {
+            "part": "pooling layer",
+            "number": 320
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 4",
+        "briefDescription": "<p><b>Fig. 4</b> illustrates a convolution layer filtering 400 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "convolution layer filtering",
+            "number": 400
+          },
+          {
+            "part": "convolution layer",
+            "number": 402
+          },
+          {
+            "part": "filter",
+            "number": 404
+          },
+          {
+            "part": "next layer",
+            "number": 406
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 5",
+        "briefDescription": "<p><b>Fig. 5</b> illustrates a pooling layer function 500 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "pooling layer function",
+            "number": 500
+          },
+          {
+            "part": "input layer",
+            "number": 502
+          },
+          {
+            "part": "pooling layer",
+            "number": 504
+          }
+        ]
+      }
+    ],
+    "glossary": [],
+    "terms": []
+  },
+  "repository": "https://github.com/TurboPatent/cnn"
+}
